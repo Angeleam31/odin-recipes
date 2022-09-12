@@ -5,7 +5,10 @@
     outline: 0;
 }
 .background{
-    background-color: aliceblue;
+    background-color: lightcyan;
+}
+.background-two{
+    background-color:mintcream;
 }
 .header{
     width: 100%;
@@ -42,7 +45,7 @@ p , h2{
     padding-bottom: 40px;
 }
 .border{
-    background-color: rgb(206, 255, 239);
+    background-color:darkseagreen;
     border-radius: 10px;
 }
 h1{
