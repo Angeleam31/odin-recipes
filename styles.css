@@ -44,3 +44,19 @@ p , h2{
     background-color: rgb(206, 255, 239);
     border-radius: 10px;
 }
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;;
+}
+.recipe_size{
+    width: 30%;
+    height: auto;
+    display: block;
+}
+ul, ol{
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: 25px;
+}
