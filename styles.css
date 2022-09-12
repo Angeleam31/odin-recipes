@@ -7,9 +7,19 @@
 .background{
     background-color: aliceblue;
 }
-
-
 img{
     width: 100%;
     height: auto; 
+}
+.title{
+    padding-top: 40px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p{
+  text-align: justify;
+  font-size:20px;
+
 }
