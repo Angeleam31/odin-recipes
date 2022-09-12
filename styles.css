@@ -36,8 +36,11 @@ p , h2{
 }
 .clickable{
     display: block;
-    width: 400px;
+    width: 50%;
     height: auto;
     border-radius: 10px;
 }
-
+.border{
+    background-color: rgb(206, 255, 239);
+    border-radius: 10px;
+}
