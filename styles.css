@@ -1,70 +1,84 @@
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
     outline: 0;
 }
-.background{
+
+.background {
     background-color: lightcyan;
 }
-.background-two{
-    background-color:mintcream;
+
+.background-two {
+    background-color: mintcream;
 }
-.header{
+
+.header {
     width: 100%;
     height: auto;
 }
-img{
+
+img {
     margin-left: auto;
     margin-right: auto;
     display: block;
     width: 80%;
-    
+
 }
-.title{
+
+.title {
     padding-top: 40px;
-    padding-bottom:20px;
+    padding-bottom: 20px;
     text-align: center;
     font-weight: bolder;
     font-size: 50px;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-p , h2{
-  text-align: justify;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  font-size: 25px;
+p,
+h2 {
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
 }
-.clickable{
+
+.clickable {
     display: block;
     width: 50%;
     height: auto;
     border-radius: 10px;
     padding-bottom: 40px;
 }
-.border{
-    background-color:darkseagreen;
+
+.border {
+    background-color: darkseagreen;
     border-radius: 10px;
 }
-h1{
+
+h1 {
     font-size: 50px;
     text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;;
+    font-family: "Lucida Console", "Courier New", monospace;
+    ;
 }
-.recipe_size{
+
+.recipe_size {
     width: 30%;
     height: auto;
     display: block;
 }
-ul, ol{
+
+ul,
+ol {
     text-align: justify;
     margin-left: 80px;
     margin-right: 20px;
     font-size: 25px;
     padding-bottom: 40px;
 }
-i{
+
+i {
     color: black;
 }
